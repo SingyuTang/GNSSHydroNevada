@@ -1,0 +1,13 @@
+Detrend of .\pbo\BNTL East 
+East WRMS:    1.63 mm     NRMS:  2.26     #:  1127 of  1128 data
+East T =  2021.6394 Postion              0.09 +-   0.05 mm   
+East Rate                               42.48 +-   0.04 mm/yr
+East Period   1.00 Cos                  -1.36 +-   0.07 mm   
+East Period   1.00 Sin                  -0.04 +-   0.08 mm   
+East Period   1.00 amplitude             1.36 +-   0.07 mm   
+East Period   1.00 phase                0.245 +-  0.009 year   
+East Period   0.50 Cos                  -0.08 +-   0.07 mm   
+East Period   0.50 Sin                  -0.07 +-   0.07 mm   
+East Period   0.50 amplitude             0.11 +-   0.07 mm   
+East Period   0.50 phase                0.136 +-  0.106 year   
+ 

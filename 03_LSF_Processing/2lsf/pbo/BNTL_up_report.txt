@@ -1,0 +1,13 @@
+Detrend of .\pbo\BNTL Up 
+Up WRMS:    4.41 mm     NRMS:  1.59     #:  1128 of  1128 data
+Up T =  2021.6398 Postion             -0.80 +-   0.14 mm   
+Up Rate                               -7.64 +-   0.09 mm/yr
+Up Period   1.00 Cos                   4.91 +-   0.19 mm   
+Up Period   1.00 Sin                   2.48 +-   0.21 mm   
+Up Period   1.00 amplitude             5.50 +-   0.20 mm   
+Up Period   1.00 phase                0.175 +-  0.006 year   
+Up Period   0.50 Cos                   1.48 +-   0.19 mm   
+Up Period   0.50 Sin                   0.39 +-   0.19 mm   
+Up Period   0.50 amplitude             1.53 +-   0.19 mm   
+Up Period   0.50 phase                0.209 +-  0.020 year   
+ 

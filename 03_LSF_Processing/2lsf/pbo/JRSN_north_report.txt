@@ -1,0 +1,13 @@
+Detrend of .\pbo\JRSN North 
+North WRMS:    1.53 mm     NRMS:  2.20     #:  1315 of  1315 data
+North T =  2021.5655 Postion             -0.05 +-   0.04 mm   
+North Rate                               35.05 +-   0.03 mm/yr
+North Period   1.00 Cos                  -0.96 +-   0.06 mm   
+North Period   1.00 Sin                  -1.10 +-   0.06 mm   
+North Period   1.00 amplitude             1.46 +-   0.06 mm   
+North Period   1.00 phase                0.114 +-  0.007 year   
+North Period   0.50 Cos                   0.49 +-   0.06 mm   
+North Period   0.50 Sin                   0.20 +-   0.06 mm   
+North Period   0.50 amplitude             0.53 +-   0.06 mm   
+North Period   0.50 phase                0.189 +-  0.018 year   
+ 

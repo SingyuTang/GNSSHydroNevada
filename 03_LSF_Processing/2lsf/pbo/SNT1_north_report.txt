@@ -1,0 +1,14 @@
+Detrend of .\pbo\SNT1 North 
+North WRMS:    1.57 mm     NRMS:  2.22     #:  1640 of  1640 data
+North T =  2021.9653 Postion             -0.68 +-   0.09 mm   
+North Rate                               34.16 +-   0.06 mm/yr
+North Period   1.00 Cos                  -0.33 +-   0.05 mm   
+North Period   1.00 Sin                  -0.43 +-   0.06 mm   
+North Period   1.00 amplitude             0.54 +-   0.06 mm   
+North Period   1.00 phase                0.105 +-  0.016 year   
+North Period   0.50 Cos                   0.51 +-   0.06 mm   
+North Period   0.50 Sin                   0.13 +-   0.05 mm   
+North Period   0.50 amplitude             0.53 +-   0.06 mm   
+North Period   0.50 phase                0.212 +-  0.016 year   
+North Break  2022.2082                   1.46 +-   0.16 mm
+ 

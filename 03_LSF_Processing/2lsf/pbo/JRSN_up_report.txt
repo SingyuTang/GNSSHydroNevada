@@ -1,0 +1,13 @@
+Detrend of .\pbo\JRSN Up 
+Up WRMS:    5.08 mm     NRMS:  1.79     #:  1315 of  1315 data
+Up T =  2021.5655 Postion              0.42 +-   0.14 mm   
+Up Rate                               -3.49 +-   0.12 mm/yr
+Up Period   1.00 Cos                   3.81 +-   0.20 mm   
+Up Period   1.00 Sin                   6.92 +-   0.20 mm   
+Up Period   1.00 amplitude             7.90 +-   0.20 mm   
+Up Period   1.00 phase                0.080 +-  0.004 year   
+Up Period   0.50 Cos                   0.82 +-   0.20 mm   
+Up Period   0.50 Sin                  -1.86 +-   0.20 mm   
+Up Period   0.50 amplitude             2.03 +-   0.20 mm   
+Up Period   0.50 phase               -0.066 +-  0.016 year   
+ 

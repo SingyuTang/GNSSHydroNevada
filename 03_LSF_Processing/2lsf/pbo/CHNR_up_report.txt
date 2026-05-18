@@ -1,0 +1,22 @@
+Detrend of .\pbo\CHNR Up 
+Up WRMS:    6.14 mm     NRMS:  1.94     #:  2452 of  2452 data
+Up T =  2014.4202 Postion            -37.06 +-   0.87 mm   
+Up Rate                               -5.42 +-   0.12 mm/yr
+Up Period   1.00 Cos                   5.11 +-   0.18 mm   
+Up Period   1.00 Sin                   6.24 +-   0.18 mm   
+Up Period   1.00 amplitude             8.06 +-   0.18 mm   
+Up Period   1.00 phase                0.109 +-  0.004 year   
+Up Period   0.50 Cos                   1.11 +-   0.18 mm   
+Up Period   0.50 Sin                  -2.43 +-   0.18 mm   
+Up Period   0.50 amplitude             2.67 +-   0.18 mm   
+Up Period   0.50 phase               -0.068 +-  0.011 year   
+Up Br EQ  2008.3607                    0.34 +-   0.43 mm
+Up Br EQ  2011.1890                    5.01 +-   0.80 mm
+Up Br EQ  2012.2760                   10.01 +- 167.84 mm
+Up Br EQ  2015.3123                   10.01 +- 167.84 mm
+Up Br EQ  2015.3589                   10.01 +- 167.84 mm
+Up Br EQ  2016.0055                   10.01 +- 167.84 mm
+Up Br EQ  2016.2814                   10.01 +- 167.84 mm
+Up Br EQ  2017.0055                   10.01 +- 167.84 mm
+Up Break  2018.1096                  10.01 +- 167.84 mm
+ 

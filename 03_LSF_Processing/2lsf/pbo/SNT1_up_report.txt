@@ -1,0 +1,14 @@
+Detrend of .\pbo\SNT1 Up 
+Up WRMS:    5.74 mm     NRMS:  1.93     #:  1640 of  1640 data
+Up T =  2021.9653 Postion              1.88 +-   0.32 mm   
+Up Rate                               -0.64 +-   0.21 mm/yr
+Up Period   1.00 Cos                   4.92 +-   0.20 mm   
+Up Period   1.00 Sin                  10.26 +-   0.21 mm   
+Up Period   1.00 amplitude            11.38 +-   0.21 mm   
+Up Period   1.00 phase                0.071 +-  0.003 year   
+Up Period   0.50 Cos                  -0.13 +-   0.20 mm   
+Up Period   0.50 Sin                   0.67 +-   0.20 mm   
+Up Period   0.50 amplitude             0.68 +-   0.20 mm   
+Up Period   0.50 phase               -0.030 +-  0.048 year   
+Up Break  2022.2082                  -4.15 +-   0.60 mm
+ 

@@ -1,0 +1,14 @@
+Detrend of .\pbo\SNT1 East 
+East WRMS:    1.86 mm     NRMS:  2.46     #:  1640 of  1640 data
+East T =  2021.9653 Postion             -0.14 +-   0.10 mm   
+East Rate                               41.78 +-   0.07 mm/yr
+East Period   1.00 Cos                  -1.10 +-   0.07 mm   
+East Period   1.00 Sin                  -0.72 +-   0.07 mm   
+East Period   1.00 amplitude             1.31 +-   0.07 mm   
+East Period   1.00 phase                0.158 +-  0.008 year   
+East Period   0.50 Cos                  -0.24 +-   0.07 mm   
+East Period   0.50 Sin                  -0.26 +-   0.07 mm   
+East Period   0.50 amplitude             0.36 +-   0.07 mm   
+East Period   0.50 phase                0.119 +-  0.029 year   
+East Break  2022.2082                   0.23 +-   0.19 mm
+ 
